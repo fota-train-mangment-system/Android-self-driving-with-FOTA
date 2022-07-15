@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Self Driving with FOTA</string>
+    <string name="Registration">Registration</string>
+    <string name="UserName">Username</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="MyEmail">My Email:</string>
+    <string name="MyUserName">My Username:</string>
+    <string name="MYId">My Id:</string>
+    <string name="Register">Register</string>
+    <string name="LoginNow">Login Now</string>
+    <string name="NotAMember">Not A member? Register Now</string>
+    <string name="logout">Logout</string>
+    <string name="AboutUs">About Us</string>
+    <string name="AboutUsDetails">\n\nStudents from the faculty of Engineering in Mansoura University that developed this android application\n"
+                        "thanks for Using our Application ❤\n"
+                        "\n\n\n\nStudents worked on this project:\n1-Abdallah El-sayed Issa\n2-Abdallah Mohammed Ragab"
+                        "\n3-Fawzy Fawzy Elbayaa\n4-Mohammed Ali Mansour\n"
+                        "5-Amro Mohamed Yehya\n6-Mohamed Hamdy Abdelsamie\n7-Abdulrahman Mostafa Ibrahim</string>
+    <string name="Am_I_Up_To_Date">Am I Up-To-Date ?</string>
+    <string name="upToDateText">want to check the last updates ?</string>
+    <string name="AboutYou">About You :</string>
+    <string name="no_mail">No mail</string>
+    <string name="no_username">No username</string>
+    <string name="no_id">No Id</string>
+    <string name="nothing">Nothing</string>
+    <string name="notifyme">NotifyMe</string>
+</resources>
